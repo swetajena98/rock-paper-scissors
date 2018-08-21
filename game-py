@@ -23,6 +23,7 @@ elif player == 's' and choosen =='r':
     print('computer wins')
 elif player == 'r' and choosen == 'p':
     sleep(1)
+    
     print('player looses')
 elif player =='p' and choosen =='r':
     sleep(1)
