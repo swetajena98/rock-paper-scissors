@@ -32,5 +32,6 @@ elif player == 's' and choosen == 'p':
      sleep(1)
      print('player wins')
 else:
-    sleep(1)
     print('player looses')
+
+
